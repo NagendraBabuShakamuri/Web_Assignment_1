@@ -1,0 +1,47 @@
+body
+{
+  color: #fff;
+  margin: auto;
+}
+h2
+{
+  text-align: left;
+}
+.header
+{
+  background-color: #f39c12;
+}
+.header h1
+{
+  margin: auto;
+  padding: 1.5rem 2rem;
+  color: white;
+}
+p
+{
+  text-align: left;
+}
+#Naruto, #Sasuke, #Sakura, #Kakashi, #Rocklee
+{
+  padding: 2rem 10rem;
+}
+#Naruto
+{
+  background-color: #e67e22;
+}
+#Sasuke
+{
+  background-color: #3498db;
+}
+#Sakura
+{
+  background-color: #FDA7DF;
+}
+#Kakashi
+{
+  background-color: #000;
+}
+#Rocklee
+{
+  background-color: #badc58;
+}

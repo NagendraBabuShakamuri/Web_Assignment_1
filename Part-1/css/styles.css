@@ -1,0 +1,108 @@
+body
+{
+  margin: auto;
+  text-align: center;
+}
+.header
+{
+  background-color: #f39c12;
+}
+h1
+{
+  margin: auto;
+  padding: 1.5rem 2rem;
+  color: white;
+}
+table.ability, .ability th, .ability td
+{
+  margin: 1rem auto 0;
+  font-size: 1.5rem;
+  border: 1px solid black;
+  border-collapse: collapse;
+  color: #000;
+  background-color: #fff;
+}
+.ability th, .ability td:hover
+{
+  background-color: #8f8f8f;
+  color: #fff;
+}
+#special-abilities a:hover
+{
+  color: #fff;
+}
+#special-abilities
+{
+  background-image: url("../images/598847.jpg");
+  background-size: cover;
+  padding: 2rem;
+  height: 35rem;
+}
+#special-abilities a
+{
+  color: #000;
+}
+#special-abilities h2
+{
+  color: #fff;
+}
+.form
+{
+  margin: 2rem auto;
+  font-size: 1rem;
+}
+.form-table
+{
+  margin: 5rem auto 0.5rem;
+}
+.form-table td
+{
+  color: #fff;
+  padding: 0.5rem 2rem 0.5rem 1rem;
+}
+.form-table label
+{
+  color: #74b9ff;
+}
+.form-table input
+{
+  outline: none;
+}
+.form-table .submit
+{
+  width: 85%;
+  background-color: #3498db;
+  outline: none;
+  border-radius: 1rem;
+  color: #fff;
+  padding: 0.2rem;
+}
+.form-table button
+{
+  width: 85%;
+  background-color: #3498db;
+  outline: none;
+  border-radius: 1rem;
+  color: #fff;
+  padding: 0.2rem;
+}
+.footer
+{
+  background-color: #74b9ff;
+  padding: 30px 0 5px;
+}
+.footer a
+{
+  color: #2980b9;
+  font-family: 'Montserrat',sans-serif;
+  margin: 1rem 2rem;
+  text-decoration: none;
+}
+.footer a:hover
+{
+  color: #fff;
+}
+.copyright
+{
+  color: #fff;
+}

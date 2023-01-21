@@ -1,0 +1,116 @@
+body
+{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url("../images/Latte_and_dark_coffee.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  background-position: center;
+  text-align: center;
+  font-family: cera-round-pro, "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+header
+{
+  position: relative;
+}
+header h1
+{
+  color: #fff;
+  font-size: 3rem;
+  display: inline-block;
+}
+header ul
+{
+  list-style: none;
+  display: inline-block;
+  position: absolute;
+  right: 1rem;
+  top: 2rem;
+}
+li
+{
+  display: inline;
+  margin: 1rem 2rem;
+}
+li a
+{
+  text-decoration: none;
+  color: #8f8f8f;
+  padding: 2rem 0;
+  font-size: 1.5rem;
+}
+li a:hover
+{
+  color: #fff;
+}
+.wiki
+{
+  color: #f39c12;
+}
+.coffee-video h1
+{
+  color: #fff;
+  font-size: 3rem;
+  width: 40rem;
+  margin: 3rem auto;
+}
+.heading-coffee
+{
+  color: #f39c12;
+}
+.coffee-video video
+{
+  border-radius: 5%;
+  margin: 2rem;
+}
+.info
+{
+
+  text-align: left;
+  background-color: #f7f1e3;
+}
+.coffee-info
+{
+  color: #fff;
+  width: 50%;
+  padding: 3rem;
+  /* background-color: #333; */
+  margin: 1rem 1rem;
+  float: left;
+}
+.coffee-info h2
+{
+  font-size: 3rem;
+  color: #273c75;
+}
+.coffee-info p
+{
+  font-size: 2rem;
+  text-align: left;
+  color: #000;
+}
+.aside
+{
+  text-align: right;
+  margin: 1rem auto;
+  display: inline-block;
+}
+footer
+{
+  background-color: #c3c6d1;
+  padding: 30px 0 5px;
+}
+footer a
+{
+  color: #2980b9;
+  font-family: 'Montserrat',sans-serif;
+  margin: 1rem 2rem;
+  text-decoration: none;
+}
+footer a:hover
+{
+  color: #fff;
+}
+.copyright
+{
+  color: #fff;
+}
