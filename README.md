@@ -17,6 +17,8 @@ The following table consists of all the HTML tags and controls that were used in
 | table, thead, tbody, th, tr, td | The table tag defines an HTML table, thead tag is used to group header content in an HTML table, tbody tag is used to group the body content in an HTML table, th tag defines a header cell in an HTML table, tr tag defines a row in an HTML table, td tag defines a standard data cell in an HTML table.|
 | form           | The form tag is used to create an HTML form for user input.|
 | input          | The input tag specifies an input field where the user can enter data.|
+| strong         | The strong tag is used to define text with strong importance. The content inside is typically displayed in bold.|
+| label          | The label tag defines a label for several input elements.|
 | button         | The button tag defines a clickable button.|
 | a              | The a tag defines a hyperlink, which is used to link from one page to another.|
 | p              | The p tag defines a paragraph.|
