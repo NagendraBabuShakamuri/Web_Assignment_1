@@ -8,7 +8,7 @@ Each character name in the table is a hyperlink which takes the user to the seco
 
 The following table consists of all the HTML tags and controls that were used in the part-1 website:
 
-| Role             | Function      |   
+| Tag             | Function      |   
 | -------------    | ------------- | 
 | link (favicon, stylesheet) | The link tag is most often used to link to external style sheets or to add a favicon to your website.|  
 | center         | The center tag was used in HTML4 to center-align text.|
@@ -32,7 +32,7 @@ Part-2 of this assignment is called Coffee wiki. It consists of two web pages, t
 
 The following table consists of all the HTML5 tags that I used in the part-2 website along with some HTML tags:
 
-| Role             | Function      |   
+| Tag             | Function      |   
 | -------------    | ------------- | 
 | header           | The header element represents a container for introductory content or a set of navigational links.|  
 | nav              | The nav tag defines a set of navigation links.|
